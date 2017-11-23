@@ -1,5 +1,6 @@
 # Alanine dipeptide 6-state MSTIS
 
+
 Multiple state transition interface sampling for alanine dipeptide. This
 sequence is based on (although not identical to) the paper:
 
